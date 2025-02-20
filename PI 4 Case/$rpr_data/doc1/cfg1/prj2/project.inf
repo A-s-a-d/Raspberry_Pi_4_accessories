@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+	<version>1</version>
+	<name>simulation</name>
+	<uuid>6ed5024b-1c68-4622-b8b9-8d6cd73db98a</uuid>
+	<directory>prj2</directory>
+	<vwr_res_files_dir>2</vwr_res_files_dir>
+	<geom_db_uuid>0bea1f9d-8d60-4085-a2e2-b0667acdc69f</geom_db_uuid>
+	<gdb_light_uuid>abb7f4a1-179f-46d5-9193-6826e261b0f0</gdb_light_uuid>
+	<model_geom_uuid>3420a562-9cd3-46d2-89c8-cf9688f34b1c</model_geom_uuid>
+	<template_id/>
+</project>
